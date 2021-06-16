@@ -7,4 +7,3 @@ System.out.println(!a);
 System.out.println(a|b);
 System.out.println((!a&b)|(a&!b));}
 }
-
